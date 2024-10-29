@@ -9,18 +9,26 @@ div {
   width:auto;
   margin:auto;
 }
+        a {
+            color: #414344;          /* Set link color to black */
+            text-decoration: none; /* Remove underline */
+        }
         img {
             max-width: 100%;
             max-height: 100%;
 }
         body {     font-family: 'Open Sans';font-size: 22px;font-style: italic;
     }
+    h1 {
+            color: #414344;          /* Set link color to black */
+            text-decoration: none; /* Remove underline */
+        }
         .artist { margin-top: 20px; }
         .artist h2 {
             color: #414344;          /* Set link color to black */
             text-decoration: none; /* Remove underline */
         }
-        .song { margin-left: 20px; }
+        .song { margin-left: 20px;margin-bottom: 10px; }
         /* Style for the song links */
         .song a {
             color: #414344;          /* Set link color to black */
@@ -29,48 +37,24 @@ div {
 
     </style>
 </head>
+
+
 <body style="background-color: #F4EFEF;">
     <div><img src="requestmenuheader.png"></div>
-    <div>Click any of the song titles below to open venmo and leave a tip! If you have a request that’s not on the list, send it to us using the links below and we’ll try our best to play it or something similar. Thank you for your support!
+    <div id="link">
+        <h1><a href="https://www.venmo.com/jonguo/">Venmo</a></h1>
+        <h1><a href="https://cash.app/$jonguo">CashApp</a></h1>
+    </div>
+    <div>Click any of the song titles below to open venmo and leave a tip! If you have a request that’s not on the list, send it to us using the links above and we’ll try our best to play it or something similar. Thank you for your support!   
     </div>
 
-    <div id="song-list"></div>
-    
-    
+    <h1></h1>
+    <div id="regular-list"></div>
 
-    <script>
-        // Fetch and render the song list
-        fetch('songs.json')
-            .then(response => response.json())
-            .then(data => renderSongs(data));
+    <h1><br><br><br>$100 Requests:</h1>
+    <div id="special-list"></div>
 
-            function renderSongs(songs) {
-    const baseURL = "venmo://paycharge?txn=pay&recipients=jonguo&amount=20&note=";
-    const groupedSongs = songs.reduce((acc, song) => {
-        if (!acc[song.artist]) {
-            acc[song.artist] = [];
-        }
-        acc[song.artist].push(song);
-        return acc;
-    }, {});
+    <script src="script.js"></script>
 
-    const container = document.getElementById('song-list');
-    for (const artist in groupedSongs) {
-        const artistDiv = document.createElement('div');
-        artistDiv.classList.add('artist');
-        artistDiv.innerHTML = `<h2>${artist}</h2>`;
-
-        groupedSongs[artist].forEach(song => {
-            const encodedTitle = encodeURIComponent(song.title); // Encode the title
-            const songDiv = document.createElement('div');
-            songDiv.classList.add('song');
-            songDiv.innerHTML = `<a href="${baseURL}${encodedTitle}" target="_blank">${song.title}</a>`;
-            artistDiv.appendChild(songDiv);
-        });
-        container.appendChild(artistDiv);
-    }
-}
-
-    </script>
 </body>
 </html>
