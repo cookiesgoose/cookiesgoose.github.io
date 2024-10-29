@@ -298,5 +298,20 @@
         "title": "Runnin' Down a Dream",
         "artist": "Tom Petty & the Heartbreakers",
         "price": "20"
+    },
+    {
+        "title": "Devil Went Down to Georgia",
+        "artist": "Charlie Daniels",
+        "price": "100"
+    },
+    {
+        "title": "Freebird",
+        "artist": "Lynyrd Skynyrd",
+        "price": "100"
+    },
+    {
+        "title": "All Too Well (Long Version)",
+        "artist": "Taylor Swift",
+        "price": "100"
     }
 ]
