@@ -19,6 +19,14 @@ function renderSongs(songs) {
 
 // Helper function to render a list of songs
 function renderSongList(container, songList, baseURL) {
+    // Sort songList by artist names first, and then by song title
+    songList.sort((a, b) => {
+        if (a.artist.toLowerCase() < b.artist.toLowerCase()) return -1;
+        if (a.artist.toLowerCase() > b.artist.toLowerCase()) return 1;
+        return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
+    });
+
+    // Group songs by artist
     const groupedSongs = songList.reduce((acc, song) => {
         if (!acc[song.artist]) {
             acc[song.artist] = [];
@@ -27,10 +35,17 @@ function renderSongList(container, songList, baseURL) {
         return acc;
     }, {});
 
-    for (const artist in groupedSongs) {
+    // Sort artists alphabetically
+    const sortedArtists = Object.keys(groupedSongs).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+
+    // Render each artist and their songs
+    sortedArtists.forEach(artist => {
         const artistDiv = document.createElement('div');
         artistDiv.classList.add('artist');
         artistDiv.innerHTML = `<h2>${artist}</h2>`;
+
+        // Sort songs alphabetically within each artist group
+        groupedSongs[artist].sort((a, b) => a.title.toLowerCase().localeCompare(b.title.toLowerCase()));
 
         groupedSongs[artist].forEach(song => {
             const encodedTitle = encodeURIComponent(song.title); // Encode the title
@@ -40,5 +55,5 @@ function renderSongList(container, songList, baseURL) {
             artistDiv.appendChild(songDiv);
         });
         container.appendChild(artistDiv);
-    }
+    });
 }
