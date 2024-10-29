@@ -1,32 +1,22 @@
 [
     {
+        "title": "Picture",
+        "artist": "Kid Rock & Sheryl Crow",
+        "price": "20"
+    },
+    {
+        "title": "Need You Now",
+        "artist": "Lady A",
+        "price": "20"
+    },
+    {
         "title": "What's Up?",
         "artist": "4 Non Blondes",
         "price": "20"
     },
     {
-        "title": "Midnight Rider",
-        "artist": "Allman Brothers",
-        "price": "20"
-    },
-    {
-        "title": "Ramblin' Man",
-        "artist": "Allman Brothers",
-        "price": "20"
-    },
-    {
         "title": "Valerie",
         "artist": "Amy Winehouse",
-        "price": "20"
-    },
-    {
-        "title": "Blue Moon of Kentucky",
-        "artist": "Bill Monroe",
-        "price": "20"
-    },
-    {
-        "title": "What You Won't Do for Love",
-        "artist": "Bobby Caldwell",
         "price": "20"
     },
     {
@@ -45,11 +35,6 @@
         "price": "20"
     },
     {
-        "title": "Tennessee Whiskey",
-        "artist": "Chris Stapleton",
-        "price": "20"
-    },
-    {
         "title": "If It Hadn't Been for Love",
         "artist": "Chris Stapleton, Steeldrivers",
         "price": "20"
@@ -62,11 +47,6 @@
     {
         "title": "Jolene",
         "artist": "Dolly Parton",
-        "price": "20"
-    },
-    {
-        "title": "Outfit",
-        "artist": "Drive-By Truckers",
         "price": "20"
     },
     {
@@ -85,11 +65,6 @@
         "price": "20"
     },
     {
-        "title": "Friends in Low Places",
-        "artist": "Garth Brooks",
-        "price": "20"
-    },
-    {
         "title": "Here For the Party",
         "artist": "Gretchen Wilson",
         "price": "20"
@@ -100,21 +75,6 @@
         "price": "20"
     },
     {
-        "title": "Rich Girl",
-        "artist": "Hall & Oates",
-        "price": "20"
-    },
-    {
-        "title": "Codeine",
-        "artist": "Jason Isbell",
-        "price": "20"
-    },
-    {
-        "title": "Cover Me Up",
-        "artist": "Jason Isbell",
-        "price": "20"
-    },
-    {
         "title": "Are You Gonna Be My Girl",
         "artist": "Jet",
         "price": "20"
@@ -122,11 +82,6 @@
     {
         "title": "Bye Bye",
         "artist": "Jo Dee Messina",
-        "price": "20"
-    },
-    {
-        "title": "Take Me Home Country Roads",
-        "artist": "John Denver",
         "price": "20"
     },
     {
@@ -145,32 +100,7 @@
         "price": "20"
     },
     {
-        "title": "All Summer Long",
-        "artist": "Kid Rock",
-        "price": "20"
-    },
-    {
-        "title": "Bawitaba",
-        "artist": "Kid Rock",
-        "price": "20"
-    },
-    {
-        "title": "Cowboy",
-        "artist": "Kid Rock",
-        "price": "20"
-    },
-    {
-        "title": "Picture",
-        "artist": "Kid Rock & Sheryl Crow",
-        "price": "20"
-    },
-    {
         "title": "Bartender",
-        "artist": "Lady A",
-        "price": "20"
-    },
-    {
-        "title": "Need You Now",
         "artist": "Lady A",
         "price": "20"
     },
@@ -182,16 +112,6 @@
     {
         "title": "Next Boyfriend",
         "artist": "Lauren Alaina",
-        "price": "20"
-    },
-    {
-        "title": "Beer Never Broke My Heart",
-        "artist": "Luke Combs",
-        "price": "20"
-    },
-    {
-        "title": "Gimme 3 Steps",
-        "artist": "Lynyrd Skynyrd",
         "price": "20"
     },
     {
@@ -220,16 +140,6 @@
         "price": "20"
     },
     {
-        "title": "Whiskey Glasses",
-        "artist": "Morgan Wallen",
-        "price": "20"
-    },
-    {
-        "title": "Mississippi Queen",
-        "artist": "Mountain",
-        "price": "20"
-    },
-    {
         "title": "Don't Speak",
         "artist": "No Doubt",
         "price": "20"
@@ -240,23 +150,8 @@
         "price": "20"
     },
     {
-        "title": "Wagon Wheel",
-        "artist": "Old Crow / Darius Rucker",
-        "price": "20"
-    },
-    {
         "title": "Hit Me With Your Best Shot",
         "artist": "Pat Benatar",
-        "price": "20"
-    },
-    {
-        "title": "You Are the Best Thing",
-        "artist": "Ray LaMontagne",
-        "price": "20"
-    },
-    {
-        "title": "Come and Get Your Love",
-        "artist": "Redbone",
         "price": "20"
     },
     {
@@ -272,11 +167,6 @@
     {
         "title": "Man I Feel Like a Woman",
         "artist": "Shania Twain",
-        "price": "20"
-    },
-    {
-        "title": "Santeria",
-        "artist": "Sublime",
         "price": "20"
     },
     {
@@ -305,48 +195,108 @@
         "price": "20"
     },
     {
-        "title": "Witchy Woman",
-        "artist": "The Eagles",
-        "price": "20"
-    },
-    {
-        "title": "Mr. Brightside",
-        "artist": "The Killers",
-        "price": "20"
-    },
-    {
-        "title": "Can't Hardly Wait",
-        "artist": "The Replacements",
-        "price": "20"
-    },
-    {
         "title": "Waterfalls",
         "artist": "TLC",
         "price": "20"
     },
     {
-        "title": "Mary Jane's Last Dance",
-        "artist": "Tom Petty",
-        "price": "100"
+        "title": "Midnight Rider",
+        "artist": "Allman Brothers",
+        "price": "20"
+    },
+    {
+        "title": "Ramblin' Man",
+        "artist": "Allman Brothers",
+        "price": "20"
+    },
+    {
+        "title": "Blue Moon of Kentucky",
+        "artist": "Bill Monroe",
+        "price": "20"
+    },
+    {
+        "title": "What You Won't Do for Love",
+        "artist": "Bobby Caldwell",
+        "price": "20"
+    },
+    {
+        "title": "Tennessee Whiskey",
+        "artist": "Chris Stapleton",
+        "price": "20"
+    },
+    {
+        "title": "Friends in Low Places",
+        "artist": "Garth Brooks",
+        "price": "20"
+    },
+    {
+        "title": "Rich Girl",
+        "artist": "Hall & Oates",
+        "price": "20"
+    },
+    {
+        "title": "Take Me Home Country Roads",
+        "artist": "John Denver",
+        "price": "20"
+    },
+    {
+        "title": "Bawitaba",
+        "artist": "Kid Rock",
+        "price": "20"
+    },
+    {
+        "title": "Cowboy",
+        "artist": "Kid Rock",
+        "price": "20"
+    },
+    {
+        "title": "Beer Never Broke My Heart",
+        "artist": "Luke Combs",
+        "price": "20"
+    },
+    {
+        "title": "Gimme 3 Steps",
+        "artist": "Lynyrd Skynyrd",
+        "price": "20"
+    },
+    {
+        "title": "Whiskey Glasses",
+        "artist": "Morgan Wallen",
+        "price": "20"
+    },
+    {
+        "title": "Mississippi Queen",
+        "artist": "Mountain",
+        "price": "20"
+    },
+    {
+        "title": "Wagon Wheel",
+        "artist": "Old Crow / Darius Rucker",
+        "price": "20"
+    },
+    {
+        "title": "You Are the Best Thing",
+        "artist": "Ray LaMontagne",
+        "price": "20"
+    },
+    {
+        "title": "Come and Get Your Love",
+        "artist": "Redbone",
+        "price": "20"
+    },
+    {
+        "title": "Santeria",
+        "artist": "Sublime",
+        "price": "20"
+    },
+    {
+        "title": "Witchy Woman",
+        "artist": "The Eagles",
+        "price": "20"
     },
     {
         "title": "Runnin' Down a Dream",
         "artist": "Tom Petty & the Heartbreakers",
-        "price": "100"
-    },
-    {
-        "title": "White House Road",
-        "artist": "Tyler Childers",
-        "price": "100"
-    },
-    {
-        "title": "Teenage Dirtbag",
-        "artist": "Wheatus",
-        "price": "100"
-    },
-    {
-        "title": "Always on my mind",
-        "artist": "Willie Nelson",
-        "price": "100"
+        "price": "20"
     }
 ]
