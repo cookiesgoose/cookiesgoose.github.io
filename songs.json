@@ -1,352 +1,410 @@
 [
     {
         "title": "Picture",
-        "": "Kid Rock & Sheryl Crow",
+        "artist": "Kid Rock & Sheryl Crow",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Need You Now",
-        "": "Lady A",
-        "price": "20"
-    },
-    {
-        "title": "Next Girl",
-        "": "Carly Pearce",
+        "artist": "Lady A",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Springsteen",
-        "": "Eric Church",
+        "artist": "Eric Church",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Since U Been Gone",
-        "": "Kelly Clarkson",
-        "price": "20"
-    },
-    {
-        "title": "Next Boyfriend",
-        "": "Lauren Alaina",
+        "artist": "Kelly Clarkson",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Tequila Does",
-        "": "Miranda Lambert",
+        "artist": "Miranda Lambert",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Waterfalls",
-        "": "TLC",
+        "artist": "TLC",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "What's Up?",
-        "": "4 Non Blondes",
+        "artist": "4 Non Blondes",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Valerie",
-        "": "Amy Winehouse",
+        "artist": "Amy Winehouse",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Before He Cheats",
-        "": "Carrie Underwood",
+        "artist": "Carrie Underwood",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Last Name",
-        "": "Carrie Underwood",
+        "artist": "Carrie Underwood",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Good Luck Babe",
-        "": "Chappell Roan",
+        "artist": "Chappell Roan",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "If It Hadn't Been for Love",
-        "": "The SteelDrivers",
+        "artist": "The SteelDrivers",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Strawberry Wine",
-        "": "Deana Carter",
+        "artist": "Deana Carter",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "9 to 5",
-        "": "Dolly Parton",
+        "artist": "Dolly Parton",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Jolene",
-        "": "Dolly Parton",
+        "artist": "Dolly Parton",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Mamas Don't Let Your Babies...",
-        "": "Ed Bruce",
+        "artist": "Ed Bruce",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Dreams",
-        "": "Fleetwood Mac",
+        "artist": "Fleetwood Mac",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Here For the Party",
-        "": "Gretchen Wilson",
+        "artist": "Gretchen Wilson",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Redneck Woman",
-        "": "Gretchen Wilson",
+        "artist": "Gretchen Wilson",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Are You Gonna Be My Girl",
-        "": "Jet",
+        "artist": "Jet",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Bye Bye",
-        "": "Jo Dee Messina",
+        "artist": "Jo Dee Messina",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Don't Stop Believin'",
-        "": "Journey",
+        "artist": "Journey",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Hole In the Bottle",
-        "": "Kelsea Ballerini",
+        "artist": "Kelsea Ballerini",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Bartender",
-        "": "Lady A",
+        "artist": "Lady A",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Watermelon Moonshine",
-        "": "Lainey Wilson",
+        "artist": "Lainey Wilson",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "My Church",
-        "": "Maren Morris",
+        "artist": "Maren Morris",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Gunpowder and Lead",
-        "": "Miranda Lambert",
+        "artist": "Miranda Lambert",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Kerosene [Givin' up on love...]",
-        "": "Miranda Lambert",
+        "artist": "Miranda Lambert",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Mama's Broken Heart",
-        "": "Miranda Lambert",
+        "artist": "Miranda Lambert",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Don't Speak",
-        "": "No Doubt",
+        "artist": "No Doubt",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Just a Girl",
-        "": "No Doubt",
+        "artist": "No Doubt",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Hit Me With Your Best Shot",
-        "": "Pat Benatar",
-        "price": "20"
-    },
-    {
-        "title": "Walking After Midnight",
-        "": "Patsy Cline",
+        "artist": "Pat Benatar",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Creep",
-        "": "Radiohead",
+        "artist": "Radiohead",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "The Night the Lights Went Out in Georgia",
-        "": "Reba McEntire",
+        "artist": "Reba McEntire",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Any Man of Mine",
-        "": "Shania Twain",
-        "price": "20"
-    },
-    {
-        "title": "Honey I'm Home",
-        "": "Shania Twain",
+        "artist": "Shania Twain",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Man I Feel Like a Woman",
-        "": "Shania Twain",
+        "artist": "Shania Twain",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Delta Dawn",
-        "": "Tanya Tucker",
+        "artist": "Tanya Tucker",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Love Story",
-        "": "Taylor Swift",
+        "artist": "Taylor Swift",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "You Belong With Me",
-        "": "Taylor Swift",
+        "artist": "Taylor Swift",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Done",
-        "": "The Band Perry",
+        "artist": "The Band Perry",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "In My Life",
-        "": "The Beatles",
+        "artist": "The Beatles",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Cowboy Take Me Away",
-        "": "The Chicks",
+        "artist": "The Chicks",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Goodbye Earl",
-        "": "The Chicks",
+        "artist": "The Chicks",
+        "lead": "Laura",
+        "price": "20"
+    },
+    {
+        "title": "Misery Business",
+        "artist": "Paramore",
+        "lead": "Laura",
         "price": "20"
     },
     {
         "title": "Midnight Rider",
-        "": "Allman Brothers",
+        "artist": "Allman Brothers",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Ramblin' Man",
-        "": "Allman Brothers",
+        "artist": "Allman Brothers",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Blue Moon of Kentucky",
-        "": "Bill Monroe",
+        "artist": "Bill Monroe",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "What You Won't Do for Love",
-        "": "Bobby Caldwell",
+        "artist": "Bobby Caldwell",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Tennessee Whiskey",
-        "": "Chris Stapleton",
+        "artist": "Chris Stapleton",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Friends in Low Places",
-        "": "Garth Brooks",
+        "artist": "Garth Brooks",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Rich Girl",
-        "": "Hall & Oates",
+        "artist": "Hall & Oates",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Voodoo Child",
-        "": "Jimi Hendrix/Stevie Ray Vaughan",
+        "artist": "Jimi Hendrix",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Take Me Home Country Roads",
-        "": "John Denver",
-        "price": "20"
-    },
-    {
-        "title": "Bawitaba",
-        "": "Kid Rock",
-        "price": "20"
-    },
-    {
-        "title": "Cowboy",
-        "": "Kid Rock",
+        "artist": "John Denver",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Beer Never Broke My Heart",
-        "": "Luke Combs",
+        "artist": "Luke Combs",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Gimme 3 Steps",
-        "": "Lynyrd Skynyrd",
+        "artist": "Lynyrd Skynyrd",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Whiskey Glasses",
-        "": "Morgan Wallen",
+        "artist": "Morgan Wallen",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Mississippi Queen",
-        "": "Mountain",
+        "artist": "Mountain",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Wagon Wheel",
-        "": "Old Crow Medicine Show",
+        "artist": "Old Crow Medicine Show",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "You Are the Best Thing",
-        "": "Ray LaMontagne",
+        "artist": "Ray LaMontagne",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Come and Get Your Love",
-        "": "Redbone",
-        "price": "20"
-    },
-    {
-        "title": "Devil Went Down to Georgia",
-        "": "Steve Ouimette",
+        "artist": "Redbone",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Santeria",
-        "": "Sublime",
+        "artist": "Sublime",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Witchy Woman",
-        "": "The Eagles",
+        "artist": "The Eagles",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Runnin' Down a Dream",
-        "": "Tom Petty & the Heartbreakers",
+        "artist": "Tom Petty & the Heartbreakers",
+        "lead": "Thayer",
         "price": "20"
     },
     {
         "title": "Pride and Joy",
-        "": "Stevie Ray Vaughan",
+        "artist": "Stevie Ray Vaughan",
+        "lead": "Thayer",
+        "price": "20"
+    },
+    {
+        "title": "Purple Rain",
+        "artist": "Prince",
+        "lead": "Thayer",
+        "price": "20"
+    },
+    {
+        "title": "Neon Moon",
+        "artist": "Brooks & Dunn",
+        "lead": "Thayer",
+        "price": "20"
+    },
+    {
+        "title": "Zombie",
+        "artist": "Cranberries",
+        "lead": "Laura",
+        "price": "20"
+    },
+    {
+        "title": "Linger",
+        "artist": "Cranberries",
+        "lead": "Laura",
         "price": "20"
     }
 ]
