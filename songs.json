@@ -323,5 +323,15 @@
         "title": "Linger",
         "artist": "Cranberries",
         "price": "20"
+    },
+    {
+        "title": "Mary Jane's Last Dance",
+        "artist": "Tom Petty & the Heartbreakers",
+        "price": "20"
+    },
+    {
+        "title": "White House Road",
+        "artist": "Tyler Childers",
+        "price": "20"
     }
 ]
